@@ -27,6 +27,7 @@ const options = [
   { key: "d", text: "DEVELOPER", value: "DEVELOPER" },
   { key: "u", text: "USER", value: "USER" },
   { key: "a", text: "ADMIN", value: "ADMIN" },
+  { key: "h", text: "HACKER", value: "HACKER" }
 ];
 
 export default function Home({ initialUsers }) {
