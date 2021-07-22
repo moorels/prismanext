@@ -57,7 +57,7 @@ export default function Home({ initialUsers }) {
       </Head>
       <Container style={{ margin: 20 }}>
         <Header as="h3">
-          This app is powered by NextJS, Robert {pkg.version}
+          This app is powered by NextJS, Morels{pkg.version}
         </Header>
         <Form
           onSubmit={async () => {
