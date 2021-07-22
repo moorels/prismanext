@@ -23,4 +23,5 @@ enum Role {
   USER
   ADMIN
   DEVELOPER
+  HACKER
 }
